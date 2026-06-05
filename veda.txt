@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+she is good and Intelligent ?????????.
+=======
 she is good and talented and nice.
+>>>>>>> master
